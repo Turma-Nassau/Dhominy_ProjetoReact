@@ -4,6 +4,7 @@ Este é o repositório para o projeto do Bloco de Anotações Online, um site si
 ## Funcionalidades
 
 - Crie e exclua anotações facilmente.
+- Filtrar as anotações por Importância.
 - Interface amigável.
 
 ## Como instalar
